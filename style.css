@@ -7,19 +7,19 @@ body{
 }
 
 h1, h2, h3{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 
 
 h2{
-	color:#7ECE90;
+	color:#6D9886;
 		font-size: 32px;
 		font-weight: 450;
 ;
 
 }
 h3{
-	color: #575F7D;
+	color: #393E46;
 		font-size: 20px;
 		font-weight: lighter;
 		font-weight: 400
@@ -36,7 +36,7 @@ a:hover {
 }
 
 .container {
-	width: 700px;
+	width: 800px;
 	margin: 40px auto;
 }
 
@@ -54,7 +54,7 @@ a:hover {
  }
 
 .card-white {
-		background: white;
+		background: #F7F7F7;
     padding: 40px;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
     margin: 20px 0px;
@@ -68,7 +68,7 @@ a:hover {
 }
 
 .btn-blue {
-	background-color: #6B72E1;
+	background-color: #6D9886;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
